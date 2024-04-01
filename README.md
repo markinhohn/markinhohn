@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marco @markinhohn
-- 👀 I’m interested in data analytics, engineering and cloud technology
+- 👀 I’m interested in data analytics and information assurance
 - 🌱 I’m currently learning my way around Github and 
-- 💞️ I’m looking to collaborate on data projects
+- 💞️ I’m working on my portfolio
 - 📫 find me on linkedin https://www.linkedin.com/in/marco-marquez-/
 
 <!---
