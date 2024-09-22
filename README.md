@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco @markinhohn
-- 👀 I’m interested in data analytics and information assurance
-- 🌱 I’m currently learning my way around Github and 
+- 👀 I’m interested in information assurance, threat detection, and penetration testing
+- 🌱 I’m currently learning my way around Github and cybersecurity related topics.
 - 💞️ I’m working on my portfolio
 - 📫 find me on linkedin https://www.linkedin.com/in/marco-marquez-/
 
