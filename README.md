@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Marco @markinhohn
 
 # Hello, I'm Marco
 <a href="https://www.linkedin.com/in/marco-marquez-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -47,11 +46,11 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 ## Certifications
 <!---[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]--->
 <div>
-<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-pentest-ce-certification.png" alt="CompTIA PenTest+ Badge" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Badge" />
-<img src="https://img.shields.io/badge/-Pentest%2B-FF69B4?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Pentest+ Badge" />
-<img src="https://img.shields.io/badge/-Network%20Vulnerability%20Assessment%20Professional-800080?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network Vulnerability Assessment Professional Badge" />
+<img src="https://github.com/markinhohn/Certifications/blob/main/certified-in-cybersecurity-cc.png" alt="ISC2 Certified in Cybersecurity CC" width="125" height="125" />    
+<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-pentest-ce-certification.png" alt="CompTIA PenTest+ Badge" width="150" height="150"/>
+<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-security-ce-certification.png" alt="CompTIA Security+ Badge" width="150" height="150"/>
+<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-ce-certification.1.png" alt="CompTIA Network+ Badge" width="150" height="150"/>
+<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification%20(1).png" alt="CompTIA Network Vulnerability Assessment Professional Badge" width="150" height="150" />
 </div>
 
 ## Projects
