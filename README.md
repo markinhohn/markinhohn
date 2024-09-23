@@ -1,21 +1,16 @@
 - 👋 Hi, I’m Marco @markinhohn
-- 👀 I’m interested in information assurance, threat detection, and penetration testing
-- 🌱 I’m currently learning my way around Github and cybersecurity related topics.
-- 💞️ I’m working on my portfolio
-- 📫 find me on linkedin https://www.linkedin.com/in/marco-marquez-/
+
 # Hello, I'm Marco
 <a href="https://www.linkedin.com/in/marco-marquez-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am working towards my Master's degree in I.T. Management, and I have a profound interest in technology and a dedication to learn new skills.
 
 ## Objective
 
 My academic journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, I am fully committed to fulfill my servie obligation with the federal government as a CyberCorps® Scholarship for Service recipient .
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!---[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]--->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,7 +22,7 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!---[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]--->
 
 ### Network
 <div>
@@ -50,7 +45,7 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<!---[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]--->
 <div>
 <img src="https://img.shields.io/badge/-CC-2C8EBB?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity Badge" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
