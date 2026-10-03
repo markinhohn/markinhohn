@@ -56,6 +56,7 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Cyber Threat Intelligence Analytics & Vulnerability Prioritization Platform
 <!---
 markinhohn/markinhohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
