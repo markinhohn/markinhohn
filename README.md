@@ -1,12 +1,11 @@
 
 # Hello, I'm Marco
-<a href="https://www.linkedin.com/in/marco-marquez-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-M.S. in Information Technology & Management from Florida Atlantic University and <a href="https://digitalcommons.fau.edu/etd_general/385/ ">published research</a>  examining cybersecurity, AI, and threat reporting.
+M.S. in Information Technology & Management from Florida Atlantic University and <a href="https://digitalcommons.fau.edu/etd_general/385/ ">published research</a>  examining U.S. critical infrastructure threat reporting, cybersecurity, and AI.
 
-My technical interests span threat detection engineering, security operations, incident response, offensive security, and infrastructure automation. I focus on developing practical skills through hands-on laboratories, security engineering projects, and independent research.
+My technical interests span threat detection, security operations, incident response, offensive security, and infrastructure automation. I focus on developing practical skills through hands-on laboratories, and security engineering projects.
 
-As a CyberCorps® Scholarship for Service (SFS) scholar, I am committed to contributing to the protection of critical infrastructure and information systems.
+I am committed to contributing to the protection of critical digital assets and information systems.
 
 ## Objective
 
@@ -94,8 +93,6 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 <a href="https://www.credly.com/badges/4ffd2e60-7c36-4940-adad-e03e00098217/public_url">
     <img src="https://github.com/markinhohn/Certifications/blob/main/google-data-analytics-professional-certificate.png" alt="Google Data Analytics Professional Certificate" width="125" height="125">
 </a>
-
-
 </div>
 
 ## Projects
@@ -106,3 +103,5 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 markinhohn/markinhohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Connect
+<a href="https://www.linkedin.com/in/marco-marquez-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
