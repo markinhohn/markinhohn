@@ -11,8 +11,14 @@ Committed to contributing to the protection of critical digital assets and infor
 
 Pursue a challenging role in cybersecurity operations, developing and applying technical expertise in threat detection, incident response, and security engineering.
 
+## Education
+
+| SANS Technology Institute | Undergraduate Certificate in Applied Cybersecurity | Expected May 2027 |
+| Florida Atlantic University | M.S. Inforamtion Technology & Operations Management | August 2026 |
+| Florida Atlantic University | B.B.A. Management Information Systems | May 2024 |
+
 ## Skills
-<!---[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]--->
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
