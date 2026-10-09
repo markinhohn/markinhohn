@@ -49,8 +49,14 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 <a href="https://www.credly.com/badges/f87c5d24-9288-411a-bf1a-7f907bd42933/public_url">
     <img src="https://github.com/markinhohn/Certifications/blob/main/giac-certified-incident-handler-gcih.png" alt="GCIH" width="125" height="125">
 </a>
-<img src="https://github.com/markinhohn/Certifications/blob/main/giac-security-essentials-certification-gsec.png" alt="GSEC" width="125" height="125" /> 
-<img src="https://github.com/markinhohn/Certifications/blob/main/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT" width="125" height="125" />
+<a href="https://www.credly.com/badges/2826bfce-5bd4-4e48-b0b2-f3db02d09da3/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/giac-security-essentials-certification-gsec.png" alt="GSEC" width="125" height="125">
+</a>
+<a href="https://www.credly.com/badges/45944577-b96d-43c6-9417-aaeb5c391abd/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT" width="125" height="125">
+</a>
+
+
 </div>
 <div>
 <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-security-ce-certification.png" alt="CompTIA Security+ Badge" width="135" height="135"/>
