@@ -2,7 +2,11 @@
 # Hello, I'm Marco
 <a href="https://www.linkedin.com/in/marco-marquez-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am working towards my Master's degree in I.T. Management, and I have a profound interest in technology and a dedication to learn new skills.
+M.S. in Information Technology & Management from Florida Atlantic University and <a href="https://digitalcommons.fau.edu/etd_general/385/ ">published research</a>  examining cybersecurity, AI, and threat reporting.
+
+My technical interests span threat detection engineering, security operations, incident response, offensive security, and infrastructure automation. I focus on developing practical skills through hands-on laboratories, security engineering projects, and independent research.
+
+As a CyberCorps® Scholarship for Service (SFS) scholar, I am committed to contributing to the protection of critical infrastructure and information systems.
 
 ## Objective
 
