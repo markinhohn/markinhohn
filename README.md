@@ -9,7 +9,7 @@ I am committed to contributing to the protection of critical digital assets and 
 
 ## Objective
 
-My academic journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, I am fully committed to fulfill my servie obligation with the federal government as a CyberCorps® Scholarship for Service recipient .
+Pursue a challenging role in cybersecurity operations, developing and applying technical expertise in threat detection, incident response, and security engineering.
 
 ## Skills
 <!---[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]--->
