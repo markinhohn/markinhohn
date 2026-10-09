@@ -55,7 +55,12 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 <a href="https://www.credly.com/badges/45944577-b96d-43c6-9417-aaeb5c391abd/public_url">
     <img src="https://github.com/markinhohn/Certifications/blob/main/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT" width="117" height="115">
 </a>
-
+<a href="https://www.credly.com/badges/45944577-b96d-43c6-9417-aaeb5c391abd/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT" width="117" height="115">
+</a>
+<a href="https://www.credly.com/badges/2f71de70-2a18-4e93-9993-8b5753cc41f4/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/giac-advisory-board.png" alt="GIAC ADvisory Board Badge" width="117" height="115">
+</a>
 
 </div>
 <div>
@@ -75,9 +80,20 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 
 </div>
 <div>
-<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification%20(1).png" alt="CompTIA Network Vulnerability Assessment Professional Badge" width="125" height="125" />
-<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification%20(1).png" alt="CompTIA Linux Network Professional Badge" width="125" height="125" />
-<img src="https://github.com/markinhohn/Certifications/blob/main/certified-in-cybersecurity-cc.png" alt="ISC2 Certified in Cybersecurity CC" width="125" height="125" />
+<a href="https://www.credly.com/badges/3f757732-9a8e-4a41-a9d2-d04371856616/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification%20(1).png" alt="CompTIA Network Vulnerability Assessment Professional Badge" width="125" height="125">
+</a>
+<a href="https://www.credly.com/badges/2c51a9c9-5eff-4feb-9080-52db646594f5/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-linux-network-professional-clnp-stackable-certification.png" alt="CompTIA Linux Network Professional Badge" width="125" height="125">
+</a>
+<a href="https://www.credly.com/badges/c86fd7cd-dba4-4396-add9-93e51b902bb8/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/certified-in-cybersecurity-cc.png" alt="ISC2 Certified in Cybersecurity CC" width="125" height="125">
+</a>
+<a href="https://www.credly.com/badges/4ffd2e60-7c36-4940-adad-e03e00098217/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/google-data-analytics-professional-certificate.png" alt="Google Data Analytics Professional Certificate" width="125" height="125">
+</a>
+
+
 </div>
 
 ## Projects
