@@ -75,7 +75,8 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 
 </div>
 <div>
-<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification%20(1).png" alt="CompTIA Network Vulnerability Assessment Professional Badge" width="150" height="150" />
+<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification%20(1).png" alt="CompTIA Network Vulnerability Assessment Professional Badge" width="125" height="125" />
+<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification%20(1).png" alt="CompTIA Linux Network Professional Badge" width="125" height="125" />
 <img src="https://github.com/markinhohn/Certifications/blob/main/certified-in-cybersecurity-cc.png" alt="ISC2 Certified in Cybersecurity CC" width="125" height="125" />
 </div>
 
