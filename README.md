@@ -46,7 +46,7 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 ## Certifications
 <!---[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]--->
 <div>
-<img src="https://github.com/markinhohn/Certifications/blob/main/giac-certified-incident-handler-gcih.png" alt="GCIH" width="125" height="125" />  
+<img src=[https://github.com/markinhohn/Certifications/blob/main/giac-certified-incident-handler-gcih.png](https://www.credly.com/badges/f87c5d24-9288-411a-bf1a-7f907bd42933/public_url) alt="GCIH" width="125" height="125" />  
 <img src="https://github.com/markinhohn/Certifications/blob/main/giac-security-essentials-certification-gsec.png" alt="GSEC" width="125" height="125" /> 
 <img src="https://github.com/markinhohn/Certifications/blob/main/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT" width="125" height="125" />
 </div>
