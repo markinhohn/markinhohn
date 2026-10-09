@@ -50,10 +50,10 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
     <img src="https://github.com/markinhohn/Certifications/blob/main/giac-certified-incident-handler-gcih.png" alt="GCIH" width="115" height="115">
 </a>
 <a href="https://www.credly.com/badges/2826bfce-5bd4-4e48-b0b2-f3db02d09da3/public_url">
-    <img src="https://github.com/markinhohn/Certifications/blob/main/giac-security-essentials-certification-gsec.png" alt="GSEC" width="125" height="125">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/giac-security-essentials-certification-gsec.png" alt="GSEC" width="115" height="115">
 </a>
 <a href="https://www.credly.com/badges/45944577-b96d-43c6-9417-aaeb5c391abd/public_url">
-    <img src="https://github.com/markinhohn/Certifications/blob/main/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT" width="125" height="125">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT" width="115" height="115">
 </a>
 
 
