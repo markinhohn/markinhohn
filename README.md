@@ -15,7 +15,7 @@ Pursue a challenging role in cybersecurity operations, developing and applying t
 
 
 | Institution | Degree / Program | Completion |
-|---|---|---|
+|-------------|------------------|------------|
 | SANS Technology Institute | Undergraduate Certificate in Applied Cybersecurity | Expected May 2027 |
 | Florida Atlantic University | M.S. Information Technology & Operations Management | August 2026 |
 | Florida Atlantic University | B.B.A. Management Information Systems | May 2024 |
