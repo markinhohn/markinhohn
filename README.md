@@ -52,6 +52,7 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-ce-certification.1.png" alt="CompTIA Network+ Badge" width="150" height="150"/>
 <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification%20(1).png" alt="CompTIA Network Vulnerability Assessment Professional Badge" width="150" height="150" />
 </div>
+<img src="https://github.com/markinhohn/Certifications/blob/main/certified-in-cybersecurity-cc.png" alt="GCIH" width="125" height="125" />  
 
 ## Projects
 - Detection Lab
