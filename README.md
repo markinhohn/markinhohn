@@ -3,9 +3,9 @@
 
 M.S. in Information Technology & Management from Florida Atlantic University and <a href="https://digitalcommons.fau.edu/etd_general/385/ ">published research</a>  examining U.S. critical infrastructure threat reporting, cybersecurity, and AI.
 
-My technical interests span threat detection, security operations, incident response, offensive security, and infrastructure automation. I focus on developing practical skills through hands-on laboratories, and security engineering projects.
+Interests span threat detection, security operations, incident response, offensive security, and infrastructure automation. I focus on developing practical skills through hands-on laboratories, and security engineering projects.
 
-I am committed to contributing to the protection of critical digital assets and information systems.
+Committed to contributing to the protection of critical digital assets and information systems.
 
 ## Objective
 
