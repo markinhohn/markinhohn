@@ -55,8 +55,6 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 <a href="https://www.credly.com/badges/45944577-b96d-43c6-9417-aaeb5c391abd/public_url">
     <img src="https://github.com/markinhohn/Certifications/blob/main/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT" width="117" height="115">
 </a>
-<a href="https://www.credly.com/badges/45944577-b96d-43c6-9417-aaeb5c391abd/public_url">
-    <img src="https://github.com/markinhohn/Certifications/blob/main/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT" width="117" height="115">
 </a>
 <a href="https://www.credly.com/badges/2f71de70-2a18-4e93-9993-8b5753cc41f4/public_url">
     <img src="https://github.com/markinhohn/Certifications/blob/main/giac-advisory-board.png" alt="GIAC ADvisory Board Badge" width="117" height="115">
