@@ -59,10 +59,20 @@ My academic journey has led me to develop a passion for cybersecurity, and I am 
 
 </div>
 <div>
-<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-security-ce-certification.png" alt="CompTIA Security+ Badge" width="135" height="135"/>
-<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-ce-certification.png" alt="CompTIA Network+ Badge" width="135" height="135"/>
-<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-linux-ce-certification.png" alt="CompTIA Linux+ Badge" width="135" height="135"/>
-<img src="https://github.com/markinhohn/Certifications/blob/main/comptia-pentest-ce-certification.png" alt="CompTIA PenTest+ Badge" width="135" height="135"/>
+<a href="https://www.credly.com/badges/ab27b5c5-df6d-4738-b990-f289d64566a3/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-security-ce-certification.png" alt="CompTIA Security+ Badge" width="125" height="125">
+</a>
+<a href="https://www.credly.com/badges/de577f84-7bf8-4e06-994b-c7230196af0a/public_urll">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-ce-certification.png" alt="CompTIA Network+ Badge" width="125" height="125">
+</a>
+<a href="https://www.credly.com/badges/cbd4a374-3555-4681-b0f9-04d326e3e475/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-linux-ce-certification.png" alt="CompTIA Linux+ Badge" width="125" height="125">
+</a>
+<a href="https://www.credly.com/badges/82f16dd9-9dde-4620-acaa-7d6dd348dd3a/public_url">
+    <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-pentest-ce-certification.png" alt="CompTIA PenTest+ Badge" width="125" height="125">
+</a>
+    
+
 </div>
 <div>
 <img src="https://github.com/markinhohn/Certifications/blob/main/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification%20(1).png" alt="CompTIA Network Vulnerability Assessment Professional Badge" width="150" height="150" />
