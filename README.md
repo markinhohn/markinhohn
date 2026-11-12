@@ -26,7 +26,7 @@ Pursue a challenging role in cybersecurity operations, developing and applying t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Intelligence Collection and Integration | <a href="https://github.com/markinhohn/ThreatPulse">ThreatPulse</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/markinhohn/threat-detection-engineering">Detection Lab</a>|
 | Threat Intelligence Integration and Security Automation, Cyber Threat Intelligence Parsing and IOC Extraction | <a href="https://github.com/markinhohn/stix2_json_parser"> STIX-to-Firewall</a> |
 
 
